@@ -1,6 +1,6 @@
 
 /*body {
-	background-image: url(img/cat.jpg);
+	background-image: url(cat.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -79,4 +79,5 @@ button{
     gap: 40px;
     flex-direction: column;
     align-items: center;
+
 }*/
