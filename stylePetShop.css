@@ -1,0 +1,82 @@
+
+/*body {
+	background-image: url(img/cat.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img {
+	width: 200px;
+}
+.maoi {
+	color: hotpink;
+	font-size: 46px;
+	text-align: right;
+}*/
+
+
+/*   I N D E X . H T M L   */
+
+body{
+    background-color: aquamarine;
+    font-size: 200px;
+    text-align: center;
+}
+.heart{
+    z-index: -1;
+    margin-top: 50px;
+    height: 600px;
+}
+p{
+    font-style: italic;
+    color: white;
+    
+    text-shadow:
+    black -3px -3px 0px,
+    black -3px 3px 0px,
+    black 3px -3px 0px,
+    black 3px 3px 0px,
+    black 0px 3px 0px,
+    black 0px -3px 0px,
+    black -3px 0px 0px,
+    black 3px 0px 0px;
+
+    margin-top: -700px;
+}
+.menu{
+    z-index: 2;
+    margin-top: -150px;
+    font-size: 200px;
+    /*backface-visibility: 50%;*/
+    color: white;
+    text-shadow:
+    black -3px -3px 0px,
+    black -3px 3px 0px,
+    black 3px -3px 0px,
+    black 3px 3px 0px;
+    margin-top: -700px;
+
+}
+.buttonAnimal{
+    position: relative;
+    margin-left: -2000px;
+    margin-top: -100px;
+    padding: 10px 10px;
+    font-size: 128px;
+    width: 650px;
+    height: 150px;
+}
+button{
+    box-shadow: 5px 5px 5px black;
+}
+.pets{
+    z-index: -1;
+    text-align: right;
+    margin-bottom: -600px;
+}
+
+/*.box-1 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    align-items: center;
+}*/
